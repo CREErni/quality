@@ -156,5 +156,8 @@
       }
     }
   },
-  "defaultProject": "qg"
+  "defaultProject": "qg",
+  "cli": {
+    "analytics": false
+  }
 }
